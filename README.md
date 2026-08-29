@@ -241,8 +241,11 @@ banking-risk-analytics-power-bi/
 │   └── project-documentation.md
 │
 ├── screenshots/
-│   └── im.pdf
-│
+├── executive-overview.png
+├── applicant-risk-analysis.png
+├── loan-application-behaviour.png
+└── risk-insights-recommendations.png
+│   
 └── assets/
 ```
 
